@@ -17,3 +17,6 @@ console.log(b);
 xxxx
 yyyy
 zzzz
+
+添加了数据缓存模块。
+
